@@ -26,3 +26,5 @@ Atualmente estagiando no setor áudio/visual e laboratórios da FAINOR.
 
 - [Email: kevin_evangelista@hotmail.com](kevin_evangelista@hotmail.com)<br/>
 - [Telefone: 77-98819-5751](77988195751)<br/>
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
